@@ -1,0 +1,12 @@
+
+
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-color: aliceblue;
+    border:solid
+}
+h1,h2,h3{
+    padding-left: 1em;
+}
